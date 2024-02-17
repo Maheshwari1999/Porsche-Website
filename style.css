@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sec1{
+    position: relative;
+}
+.aa{
+    background-color: transparent;
+}
+.txt{
+    position: absolute;
+    top: 0px;
+    left:0px;
+}
+.txt h1{
+    font-size: 100px;
+    color: white;
+}
+.bt{
+    width: 300px;
+    height: 50px;
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    font-size: 20px;
+}
+.nv{
+    color: white;
+}
+.h1{
+    position: relative;
+    bottom: 100px;
+    right: 50px;
+}
+.o1 h4{
+    background-color:#ECECEC;
+}
+.o2 h4:hover{
+    background-color:#ECECEC;
+}
+.o1 i{
+    text-align: right;
+}
+.tp{
+   margin-left: 400px;
+   font-size: 25px;
+   text-transform: uppercase;
+   letter-spacing: 10px;
+}
+.tp1{
+    margin-left: 370px;
+    font-size: 25px;
+}
+/* ------Section 2----- */
+.ii{
+    overflow: hidden;
+    position: relative;
+}
+.tt{
+    position: absolute;
+    top: 180px;
+    left: 0;
+}
+.ii img:hover{
+    
+    transform: scale(1.2 , 1.2);
+    transition: all 1s;
+}
+/* ------------Section 3----------------- */
+.i1{
+    position: relative;
+}
+.t1{
+    position: absolute;
+    top: 400px;
+    left: 50px;
+}
+.bb{
+    height: 60px;
+    width: 400px;
+    margin-bottom: 10px;
+}
+.bb1{
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    height: 60px;
+    width: 400px;
+}
+/* ------------Section 4--------- */
+.btt{
+    width: 130px;
+    height: 50px;
+}
+/* ------------Section 8---------- */
+.ii2{
+    overflow: hidden;
+    position: relative;
+}
+.tt2{
+    position: absolute;
+    top: 250px;
+    left: 0;
+}
+.ii2 img:hover{
+    
+    transform: scale(1.2 , 1.2);
+    transition: all 1s;
+}
+/* ------------Footer------------- */
+.dd p:hover{
+    color: red;
+}
+.dd1 span:hover{
+    color: red;
+}
